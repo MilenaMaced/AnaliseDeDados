@@ -5,7 +5,7 @@ Notebooks baseados no curso Inicie sua carreira em Ciência de Dados da Platafor
 # Base de Dados
 Analise do Data Set Automobile  - UC Machine Learning Repository.
 
-# Conteúdo dos Notebooks
+# Conteúdos dos Notebooks
 * Ciência de dados iterativa usando os notebooks Google Colaboratory .
 * Utilização de Bibliotecas matemáticas com Scipy e Numpy.
 * Analise de dados usando bibliotecas Python com pandas.
